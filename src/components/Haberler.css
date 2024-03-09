@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  margin: 20px auto;
+  max-width: 1200px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-md-6,
+.col-md-3 {
+  padding: 10px;
+}
+
+.col-md-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.col-md-3 {
+  flex: 0 0 33.333%;
+  max-width: 33.333%;
+}
+
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
