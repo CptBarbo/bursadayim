@@ -16,8 +16,8 @@
 
 .navbar ul a {
   color: white;
-  font-family: Arial,;
-  font-size: 24px; 
+  font-family: Arial, ;
+  font-size: 24px;
   margin-right: 20px;
   font-weight: bold;
 }
@@ -25,7 +25,7 @@
 .navbar ul p {
   color: white;
   font-family: Arial, sans-serif;
-  font-size: 8px; 
+  font-size: 8px;
   margin-right: 20px;
   margin-bottom: 20px;
 }
@@ -44,7 +44,7 @@
 
 .navbar form button {
   margin-left: 10px;
-  padding: 4px 8px; 
+  padding: 4px 8px;
   background-color: #fff;
   border: none;
   border-radius: 4px;

@@ -7,7 +7,7 @@ function SearchBox() {
 
     const handleAramaSubmit = (event) => {
         event.preventDefault();
-        
+
         navigate(`/arama?query=${aramaMetni}`);
     };
 

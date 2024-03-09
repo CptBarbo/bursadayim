@@ -8,14 +8,14 @@ import Bulunamadi from './pages/Bulunamadi.jsx';
 function PageRoutes() {
   return (
 
-    
+
     <Routes>
       <Route path='/AVM' element={<AVM />} />
       <Route path='/Tarih' element={<Tarih />} />
       <Route path='/Dogal' element={<Dogal />} />
       <Route path='*' element={<Bulunamadi />} />
     </Routes>
-    
+
 
 
 

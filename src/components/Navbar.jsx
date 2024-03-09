@@ -7,15 +7,15 @@ import SearchBox from './SearchBox';
 function Navbar() {
     const [showLinks, setShowLinks] = useState(false);
 
-    
+
 
     return (
         <div>
             <nav className="navbar navbar-dark bg-success">
                 <div className="container">
                     <a className="navbar-brand">
-                    <NavLink className="nav-link" to="/">
-                        <img src="https://www.bursa.bel.tr/assets/images/logo_beyaz1.png" alt="image" width="200" height="50" />
+                        <NavLink className="nav-link" to="/">
+                            <img src="https://www.bursa.bel.tr/assets/images/logo_beyaz1.png" alt="image" width="200" height="50" />
                         </NavLink>
                     </a>
                     <ul>
@@ -24,7 +24,7 @@ function Navbar() {
                     </ul>
 
                     <SearchBox />
-                    
+
                     <Dropdown>
                         <Dropdown.Toggle variant="success" id="dropdown-basic">
                             <a>Faydalı Linkler</a>
