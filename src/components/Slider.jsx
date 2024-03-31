@@ -36,7 +36,7 @@ function Slider() {
           <NavLink className="nav-link" to="/Dogal">
             <img
               className="d-block w-100"
-              src="src/Images/Dogal.jpg"
+              src="/src/Images/Dogal.jpg"
               alt="Third slide" />
           </NavLink>
         </Carousel.Item>
