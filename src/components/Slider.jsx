@@ -18,7 +18,7 @@ function Slider() {
           <NavLink className="nav-link" to="/AVM">
             <img
               className="d-block w-100"
-              src="src/Images/AVM.jpg"
+              src="https://hizliresim.com/qmevodt"
               alt="First slide" />
           </NavLink>
         </Carousel.Item>
@@ -27,7 +27,7 @@ function Slider() {
           <NavLink className="nav-link" to="/Tarih">
             <img
               className="d-block w-100"
-              src="src/Images/Tarih.jpg"
+              src="https://hizliresim.com/qmevodt"
               alt="Second slide" />
           </NavLink>
         </Carousel.Item>
@@ -36,7 +36,7 @@ function Slider() {
           <NavLink className="nav-link" to="/Dogal">
             <img
               className="d-block w-100"
-              src="/src/Images/Dogal.jpg"
+              src="https://hizliresim.com/qmevodt"
               alt="Third slide" />
           </NavLink>
         </Carousel.Item>
