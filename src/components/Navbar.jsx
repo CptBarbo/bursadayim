@@ -15,7 +15,7 @@ function Navbar() {
                 <div className="container">
                     <a className="navbar-brand">
                         <NavLink className="nav-link" to="/">
-                            <img src="https://www.bursa.bel.tr/assets/images/logo_beyaz1.png" alt="image" width="200" height="50" />
+                            <img src="https://i.hizliresim.com/m5dqajm.png" alt="image" width="130" height="50" />
                         </NavLink>
                     </a>
                     <ul>
